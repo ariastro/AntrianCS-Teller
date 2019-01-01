@@ -1,0 +1,16 @@
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\bin\Debug\Teller and CS.exe.config
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\bin\Debug\Teller and CS.exe
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\bin\Debug\Teller and CS.pdb
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\bin\Debug\Teller and CS.xml
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Teller_and_CS.Form1.resources
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Teller_and_CS.Resources.resources
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Teller and CS.vbproj.GenerateResource.Cache
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Teller and CS.exe
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Teller and CS.xml
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Teller and CS.pdb
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Teller and CS.vbprojResolveAssemblyReference.cache
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Interop.WMPLib.dll
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Astronout\Documents\Visual Studio 2012\Projects\Teller and CS\Teller and CS\obj\Debug\Teller and CS.vbproj.ResolveComReference.cache
